@@ -7,4 +7,4 @@ authors = ["Hasan Hakkaev <hasan.hakkaev@gmx.at>"]
 
 [dependencies]
 cargo-watch = "8.4.0"
-watch = "0.2.2"
+watch = "0.2.3"
