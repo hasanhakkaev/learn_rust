@@ -167,7 +167,7 @@ async fn read_podcasts_from_xml(url: &str) -> Result<Vec<Podcast>> {
     Ok(results)
 }
 
-//TODO: use https://wayofthecrab.com/rss.xml
+ // TODO: use https://wayofthecrab.com/rss.xml
 
 #[shuttle_runtime::main]
 async fn axum() -> shuttle_axum::ShuttleAxum {
