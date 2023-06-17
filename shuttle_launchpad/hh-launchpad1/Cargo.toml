@@ -1,0 +1,13 @@
+[package]
+name = "hh-launchpad1"
+version = "0.1.0"
+edition = "2021"
+authors = ["Hasan Hakkaev <hasan.hakkaev@gmx.at>"]
+description = "A web project written in Rust(Shuttle Launchpad #1)"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+axum = "0.6.18"
+shuttle-axum = "0.18.0"
+shuttle-runtime = "0.18.0"
+tokio = { version = "1.15.0", features = ["full"] }

@@ -1,0 +1,8 @@
+[package]
+name = "rust_book_02"
+version = "0.1.0"
+edition = "2021"
+authors = ["hasan hakkaev <hasan.hakkaev@gmx.at>"]
+
+[dependencies]
+rand = "0.8.5"
