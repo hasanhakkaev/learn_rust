@@ -8,6 +8,6 @@ description = "A web project written in Rust(Shuttle Launchpad #1)"
 
 [dependencies]
 axum = "0.6.18"
-shuttle-axum = "0.18.0"
+shuttle-axum = "0.19.0"
 shuttle-runtime = "0.19.0"
 tokio = { version = "1.28.2", features = ["full"] }
