@@ -8,5 +8,5 @@ shuttle-axum = "0.20.0"
 shuttle-runtime = "0.20.0"
 tokio = "1.28.2"
 serde_json = "1.0.99"
-serde = "1.0.164"
+serde = "1.0.166"
 axum = { version = "0.6.18", features = ["json"] }
