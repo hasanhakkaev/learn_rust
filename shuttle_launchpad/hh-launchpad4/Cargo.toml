@@ -1,16 +1,15 @@
 [package]
-name = "hh-launchpad3"
+name = "hh-launchpad4"
 version = "0.1.0"
 edition = "2021"
 publish = false
 authors = ["Hasan Hakkaev <hasan.hakkaev@gmx.at>"]
-description = "Shuttle Launchpad#3"
+description = "Shuttle Launchpad#4"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-shuttle-axum = "0.21.0"
-shuttle-runtime = "0.21.0"
+axum = "0.6.18"
+rand = "0.8.5"
+shuttle-axum = "0.22.0"
+shuttle-runtime = "0.22.0"
 tokio = "1.29.1"
-serde_json = "1.0.100"
-serde = "1.0.171"
-axum = { version = "0.6.18", features = ["json"] }
