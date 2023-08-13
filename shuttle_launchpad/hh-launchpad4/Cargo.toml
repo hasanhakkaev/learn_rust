@@ -8,7 +8,7 @@ description = "Shuttle Launchpad#4"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-axum = "0.6.18"
+axum = "0.6.20"
 rand = "0.8.5"
 shuttle-axum = "0.22.0"
 shuttle-runtime = "0.22.0"
