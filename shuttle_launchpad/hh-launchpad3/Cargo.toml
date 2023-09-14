@@ -11,6 +11,6 @@ description = "Shuttle Launchpad#3"
 shuttle-axum = "0.21.0"
 shuttle-runtime = "0.21.0"
 tokio = "1.29.1"
-serde_json = "1.0.100"
+serde_json = "1.0.107"
 serde = "1.0.171"
 axum = { version = "0.6.18", features = ["json"] }
