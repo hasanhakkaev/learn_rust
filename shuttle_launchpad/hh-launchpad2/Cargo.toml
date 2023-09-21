@@ -10,7 +10,7 @@ description = "Shuttle Launchpad#2 podcast APP"
 [dependencies]
 shuttle-runtime = "0.21.0"
 axum = "0.6.18"
-shuttle-axum = "0.21.0"
+shuttle-axum = "0.27.0"
 tokio = "1.29.1"
 reqwest = "0.11.18"
 xml = "0.8.10"

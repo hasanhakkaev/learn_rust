@@ -10,6 +10,6 @@ description = "Shuttle Launchpad#4"
 [dependencies]
 axum = "0.6.18"
 rand = "0.8.5"
-shuttle-axum = "0.22.0"
+shuttle-axum = "0.27.0"
 shuttle-runtime = "0.22.0"
 tokio = "1.29.1"
