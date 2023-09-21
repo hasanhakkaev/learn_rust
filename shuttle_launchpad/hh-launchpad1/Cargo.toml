@@ -9,5 +9,5 @@ description = "A web project written in Rust(Shuttle Launchpad #1)"
 [dependencies]
 axum = "0.6.18"
 shuttle-axum = "0.21.0"
-shuttle-runtime = "0.21.0"
+shuttle-runtime = "0.27.0"
 tokio = { version = "1.29.1", features = ["full"] }
